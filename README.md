@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist "oonne/yii2-sortable-grid-view-widget" "*"
+php composer.phar require --prefer-dist "oonne/yii2-sortable-grid-view" "*"
 ```
 
 or add
 
 ```
-"oonne/yii2-sortable-grid-view-widget" : "*"
+"oonne/yii2-sortable-grid-view" : "*"
 ```
 
 to the require section of your `composer.json` file.
