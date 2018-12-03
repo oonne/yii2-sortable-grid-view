@@ -64,7 +64,7 @@ use oonne\sortablegrid\SortableGridView;
 
 SortableGridView::widget([
     'dataProvider' => $dataProvider,
-    'sortableAction' => ['/bannersuper/sequence'],
+    'sortableAction' => ['/bannersuper/sort'],
     'columns' => [
         [
             'class' => 'yii\grid\SerialColumn',
